@@ -1,1 +1,5 @@
 This is file B. this is also for practice perpose.
+Data mining is a particular data analysis technique that focuses on statistical modeling
+ and knowledge discovery for predictive rather than purely descriptive purposes,
+  while business intelligence covers data analysis that relies heavily on aggregation,
+   focusing mainly on business information.
